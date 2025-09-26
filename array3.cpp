@@ -13,9 +13,9 @@ int main(){
             sec_largest = largest;
             largest = num[i];
         }
-        // else(){
-
-        // }
-}
+        else if (num[i]>sec_largest && num[i]!= largest){
+            sec_largest= num[i];
+        }
+    }
 cout<<"secondlargest element is"<<sec_largest;
 }
