@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/OneDrive/Desktop/c++dsa",
-      "program": "c:/Users/hp/OneDrive/Desktop/c++dsa/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/OneDrive/Desktop/c++dsa/loops",
+      "program": "c:/Users/hp/OneDrive/Desktop/c++dsa/loops/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
